@@ -1,0 +1,14 @@
+error-players-only: "&c[&7&l!&c] &7Only players can perform this command!"
+error-no-permission: "&c[&7&l!&c] &7You need the permission {node} to do this!"
+voucher-given: "&c[&7&l!&c] &7You have given the voucher {voucher} to {player}!"
+voucher-received: "&c[&7&l!&c] &7You have received the voucher {voucher}!"
+usage: "&c[&7&l!&c] &7Usage: {usage}"
+admin-menu-opened: "&c[&7&l!&c] &7Viewing admin menu!"
+reload-complete: "&c[&7&l!&c] &7Reloaded Vouchers!"
+help-message:
+  - '&c[&7&l!&c] &7List of commands:'
+  - '&b> &7{commands}'
+vouchers-list:
+  - '&c[&7&l!&c] &7List of vouchers:'
+  - '&b> &7{vouchers}'
+

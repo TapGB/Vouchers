@@ -1,0 +1,6 @@
+name: Vouchers
+version: ${project.version}
+main: dev.tapgb.vouchers.Vouchers
+commands:
+  vouchers:
+    description: Get vouchers

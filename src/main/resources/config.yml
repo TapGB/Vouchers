@@ -4,8 +4,6 @@ vouchers:
     name: "&b$10,000 For you my friend!"
     lore:
       - 'You can add a lore!'
-      - 'Holy Shit...'
-      - 'Ruby is a fag'
     commands:
       - 'eco give {player} 10000'
 menus:

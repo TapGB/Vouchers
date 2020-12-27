@@ -47,7 +47,7 @@ public abstract class CommandHandler {
                 }
             }
         } else {
-            sender.sendMessage(Utils.c("&c[&7&l!&c] &7Running Vouchers Version: " + Vouchers.getInstance().getDescription().getVersion() + " By FileFound!"));
+            sender.sendMessage(Utils.c("&c[&7&l!&c] &7Running Vouchers Version: " + Vouchers.getInstance().getDescription().getVersion() + " By TapGB!"));
             sender.sendMessage(Utils.c("&c[&7&l!&c] &7Run /vouchers help for a list of commands!"));
         }
         return true;
